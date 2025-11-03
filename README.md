@@ -10,18 +10,7 @@
 ###  실시간 웹 데모
 
 **[➡️ 지금 바로 데모 체험하기 (Streamlit Cloud)]**
-*(여기에 배포한 Streamlit URL을 넣어주세요: 예: https://npc-demo.streamlit.app)*
-
----
-
-###  데모 시연 (GIF/스크린샷)
-
-*(여기에 `demo_npc.py`를 실행하고 '선물하기'/'모욕하기' 버튼을 눌렀을 때 NPC의 반응이 변하는 장면을 GIF로 녹화하여 삽입하세요.)*
-
-(이미지 예시)
-![NPC Demo Screenshot](httpsMultiModalEncoder/placeholder.gif)
-
----
+https://npc-demo.streamlit.app/
 
 ### 핵심 기능 (Why this Engine?)
 
